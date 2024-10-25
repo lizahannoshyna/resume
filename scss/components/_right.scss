@@ -1,0 +1,129 @@
+.right-part-wrap{
+    background-color: $right-bg;
+    padding: 80px 40px 0 80px;
+}
+
+.bio-post{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 121%;
+}
+
+.bio-desc{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 171%;
+    max-width: 702px;
+    color: $gray;
+}
+
+.name-title{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 122%;
+}
+
+.projects-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 122%;
+}
+
+.projects-item {
+    display: flex;
+    align-items: flex-end;
+}
+
+.dashed-line {
+    border-top: 1px dashed $gray;;
+    width: 20%;
+    margin: 0 0 5px 10px;
+}
+
+.projects-link{
+    padding: 0
+    24px 0 24px;
+}
+.work-desc{
+    padding-left: 24px;
+}
+
+.span-number{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 171%;
+}
+
+.work-experience{
+    padding-top: 40px;
+}
+
+.work-experience-header, .education-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 122%;
+}
+.education{
+    padding-top: 40px;
+}
+
+.work-experience-title{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 125%;
+
+    .work-experience-span{
+        color: $blue;
+    }
+}
+
+.work-experience-date {
+    max-width: 240px;
+    color: $light-gray;
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: 1px solid black; /* Вертикальна лінія */
+    height: 20px; /* Висота лінії */
+    font-size: 12px;
+}
+
+.work-experience-country{
+    color: $light-gray;
+    font-size: 12px;
+}
+
+.work-experience-item{
+    color: $gray;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 171%;
+
+}
+
+.work-experience-list{
+    max-width: 526px;
+}
+
+.freelance, .banderogusak, .best-ua{
+    margin-top: 12px;
+}
+
+.education-uni{
+    color: $blue;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 125%;
+}
+
+.education-specialty{
+    color: $text;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 122%;
+}
+
+
+
+
+
+

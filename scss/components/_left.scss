@@ -1,0 +1,29 @@
+.left-part-wrap{
+    background-color: $primary;
+    padding: 40px;
+}
+
+.contacts{
+    padding-top: 40px;
+}
+
+.contacts-title, .tech-skills-title, .soft-skills-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 122%;
+}
+.contacts-list{
+    list-style: none;
+    padding: 0;
+}
+
+.span-contact{
+    font-size: 14px;
+    font-weight: 700;
+    color: $text;
+}
+
+.contact-link a[href^="tel:"] {
+    color: $text;
+    text-decoration: none;
+}

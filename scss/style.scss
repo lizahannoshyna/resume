@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    background-color: #F6F6FA;
+  }
+
+.container{
+    margin: 0px auto;
+    padding: 0px 15px;
+}
+
+main{
+    padding: 40px;
+}
+
+
+
+// base style
+@import "./untills/variables";
+
+// sections
+@import "./components/left";
+@import "./components/right";
